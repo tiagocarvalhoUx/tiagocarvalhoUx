@@ -6,7 +6,7 @@
 
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-carvalhos-projects&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que eu uso no meu dia
 
