@@ -22,12 +22,6 @@
 </picture>
 
 
-<a href="https://github.com/tiagocarvalhoUx/convoychat">
-  <img  height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagocarvalhoUx&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
