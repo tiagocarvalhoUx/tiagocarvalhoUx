@@ -6,9 +6,21 @@
 
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&exclude_repo=github-readme-stats,tiagocarvalhoUx.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie)](https://github.com/tiagocarvalhoUx/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true" />
+</picture>
+
 
 ## Tecnologias que eu uso no meu dia
 
