@@ -35,8 +35,6 @@
 </div><br/>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,discord,powershell,linkedin)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql, )](https://skillicons.dev)
-
 
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
