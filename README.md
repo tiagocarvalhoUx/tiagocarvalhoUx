@@ -34,7 +34,7 @@
 <img align= "center" alt="React_Native"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,discord,mysql,powershell, linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,discord,mysql,powershell linkedin)](https://skillicons.dev)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
