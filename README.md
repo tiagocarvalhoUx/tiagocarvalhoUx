@@ -1,6 +1,9 @@
 
 ### Olá! Eu sou Tiago Carvalho ✌️
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+meu+%C3%A9+Tiago;Sou+Desenvolvedor+Web+J%C3%BAnior%2C+seja+bem+vindo!)](https://git.io/typing-svg)
+
+
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://sujeitoprogramador.com)      
 
 
