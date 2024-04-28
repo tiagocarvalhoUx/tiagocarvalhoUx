@@ -3,6 +3,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0003F2FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
+
+
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave)
 
 
@@ -31,6 +33,8 @@
 <img align= "center" alt="Node.js"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align= "center" alt="React_Native"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
