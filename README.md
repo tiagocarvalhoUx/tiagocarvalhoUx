@@ -1,8 +1,7 @@
 
 ### Olá! Eu sou Tiago Carvalho ✌️
 
-      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0003F2FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Seja+bem+vindo!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0003F2FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave)
 
