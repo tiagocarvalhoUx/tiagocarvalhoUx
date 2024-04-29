@@ -22,6 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true" />
 </picture>
 
+Download Currículo: https://1drv.ms/b/s!Av4B0SyMrA9qhPlhgj4Qke_y0GzxTg?e=eKzBsA
+
 
 ## Tecnologias que eu uso no meu dia
 
