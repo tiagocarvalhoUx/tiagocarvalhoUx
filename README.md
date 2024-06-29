@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true" />
 </picture>
 
-Link Currículo:  <a href="(https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link)" download="(https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link)" type="application/pdf" class="btn">Download CV</a>
+Link Currículo:  <a href="[(https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link)]" download="[(https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link)]" type="application/pdf" class="btn">Download CV</a>
 
 ## Tecnologias que eu uso no meu dia
 
