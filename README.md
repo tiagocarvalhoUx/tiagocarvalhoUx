@@ -41,4 +41,4 @@ Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwE
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
