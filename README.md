@@ -40,4 +40,4 @@ Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwE
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&redirect=true)
