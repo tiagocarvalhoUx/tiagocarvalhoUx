@@ -1,4 +1,4 @@
-se
+
 ### Olá! Eu sou Tiago Carvalho ✌️
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0003F2FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Seja+Bem+Vindo!)](https://git.io/typing-svg)
@@ -40,3 +40,4 @@ Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwE
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&redirect=true)
