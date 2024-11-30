@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Tiago Carvalho (https://www.flaticon.com/br/icone-gratis/avatar_5452873)
+### Olá! Eu sou Tiago Carvalho <i class="fi fi-rs-display-code"></i> 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0003F2FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
