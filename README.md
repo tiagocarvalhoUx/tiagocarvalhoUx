@@ -1,5 +1,6 @@
 
-### Olá! Eu sou Tiago Carvalho <i class="fi fi-rs-display-code"></i> 
+### Olá! Eu sou Tiago Carvalho ![image](https://github.com/user-attachments/assets/8c92323c-1135-42d6-9759-2aae9fb8eca2)
+
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=0003F2FC&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
