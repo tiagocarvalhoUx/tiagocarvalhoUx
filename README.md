@@ -43,4 +43,3 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=sokajeba&redirect=true)
 
-![Snake animation](https://github.com/tiagocarvalhoUx/tiagocarvalhoUx/blob/output/github-contribution-grid-snake.svg)
