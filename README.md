@@ -7,7 +7,7 @@
 
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=8000e0&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Sou+Desenvolvedor+Web+J%C3%BAnior+;Estou+a+sua+Disposição!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&&color=8000e0&center=true&vCenter=true&repeat=true&random=falso&width=435&lines=Fique+a+Vontade,+;Estou+a+sua+Disposição!)](https://git.io/typing-svg)
 
 
 
