@@ -46,7 +46,7 @@ Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwE
 <img align= "center" alt="React_Native"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,discord,powershell,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,visualstudio,mysql,powershell,linkedin,nodejs,react,figma,photoshop,git,github&theme=light)](https://skillicons.dev)
 
 <br>
 
