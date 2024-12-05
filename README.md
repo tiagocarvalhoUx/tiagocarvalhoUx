@@ -12,28 +12,32 @@
 
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave)
 
+<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=aura&hide_border=true" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
 </div>
 
+<br>
+<br>
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie)](https://github.com/tiagocarvalhoUx/github-readme-stats)
 
 
-
-
+<br>
 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagocarvalhoUx&bg_color=000000&color=8000e0&line=85ff12&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<br>
 
 Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link" download="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link" type="application/pdf" class="btn">Download CV</a>
+
+<br>
 
 ## Tecnologias que eu uso no meu dia
 
