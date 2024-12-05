@@ -47,5 +47,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 
 
- ![snake gif](https://github.com/tiagocarvalhoUx/tiagocarvalhoUx/blob/output/github-contribution-grid-snake.gif)
 
