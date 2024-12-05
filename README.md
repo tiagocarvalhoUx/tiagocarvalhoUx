@@ -13,6 +13,10 @@
 ![Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave)
 
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=aura&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
+</div>
 
 
 
@@ -78,6 +82,9 @@ Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwE
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8000e0&height=120&section=footer"/>
+
+
+
 
 
 
