@@ -1,3 +1,4 @@
+ ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 ### Olá! Eu sou Tiago Carvalho 👔 💻 
 
@@ -39,7 +40,6 @@ Link Currículo:  <a href="https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwE
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,discord,powershell,linkedin)](https://skillicons.dev)
 
 
- ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
