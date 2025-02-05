@@ -36,7 +36,7 @@
 
 <br>
 
-Link Currículo:  <a href="" download="[https://drive.google.com/file/d/1ahgyqeguOmkfQnS_uMwEBLe_RGumyjN9/view?usp=drive_link](https://drive.google.com/file/d/17Vp7twmUfLV4yrc1UlglFry1HmGJIjrm/view?usp=drive_link)" type="application/pdf" class="btn">Download CV</a>
+Link Currículo:  <a href="https://drive.google.com/file/d/17Vp7twmUfLV4yrc1UlglFry1HmGJIjrm/view?usp=sharing"  type="application/pdf" class="btn">Download CV</a>
 
 <br>
 
