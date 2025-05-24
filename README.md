@@ -55,7 +55,7 @@ Link Currículo:  <a href="https://drive.google.com/file/d/17Vp7twmUfLV4yrc1Ulgl
 
 <br>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/tiagocarvalhoUx/tiagocarvalhoUx/output/snake.svg" alt="Snake animation" />
 
 
 <h2 align="center">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h2>
