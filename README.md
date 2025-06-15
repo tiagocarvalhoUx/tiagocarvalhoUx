@@ -58,7 +58,7 @@ Link Currículo:  <a href="https://drive.google.com/file/d/17Vp7twmUfLV4yrc1Ulgl
 <img src="https://raw.githubusercontent.com/tiagocarvalhoUx/tiagocarvalhoUx/output/snake.svg" alt="Snake animation" />
 
 
-# 👋 Olá, eu sou [Seu Nome]
+
 
 ## 🚀 Desenvolvedor Front-end
 
@@ -121,7 +121,7 @@ Sou um desenvolvedor front-end apaixonado por criar experiências digitais incr�
 
 ## 📊 GitHub Stats
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
 
