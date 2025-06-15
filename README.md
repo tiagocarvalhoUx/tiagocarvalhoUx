@@ -155,7 +155,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
   <a href="https://www.linkedin.com/in/tiago-carvalho-ux" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portifolio-2025-git-portifolio-tiago-tiagocarvalhoux-s.vercel.app/work" target="_blank">
+  <a href="https://portifolio-2025-git-portifolio-tiago-tiagocarvalhoux-s.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-8000e0?style=for-the-badge&logo=safari&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://vercel.com/tiagocarvalhoux-s" target="_blank">
