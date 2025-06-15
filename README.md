@@ -206,11 +206,14 @@ Interessado em conhecer mais sobre minha experiência profissional?
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.instagram.com/elite_webdesigner/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-carvalho-ux" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portifolio-2025-git-portifolio-tiago-tiagocarvalhoux-s.vercel.app/work" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-8000e0?style=for-the-badge&logo=safari&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://vercel.com/tiagocarvalhoux-s" target="_blank">
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
   <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -245,7 +248,4 @@ Acredito que a programação é uma ferramenta poderosa para criar soluções qu
 
 <div align="center">
   <strong>✨ Obrigado pela visita! Vamos construir algo incrível juntos! ✨</strong>
-</div> 
-
-
-
+</div>
