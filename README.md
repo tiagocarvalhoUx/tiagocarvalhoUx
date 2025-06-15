@@ -161,8 +161,8 @@ const experience = {
 
 Estou sempre aberto a novos projetos e oportunidades interessantes!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/tiago-carvalho-ux)
+[![Portfolio](https://portifolio-2025-git-portifolio-tiago-tiagocarvalhoux-s.vercel.app/work)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago_carvalho07@yahoo.com.br )
 
 ---
