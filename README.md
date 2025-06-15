@@ -7,8 +7,7 @@
 
 <div align="center">
 
- src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=8000E0&background=00000000&center=true&vCenter=true&width=800&height=70&lines=OL%C3%81%2C+EU+SOU;TIAGO+CARVALHO;FRONT-END+DEVELOPER" alt="Nome 3D" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=8000E0&background=00000000&center=true&vCenter=true&width=800&height=70&lines=OL%C3%81%2C+EU+SOU;TIAGO+CARVALHO;FRONT-END+DEVELOPER" alt="Nome 3D" /> 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8000e0&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-End;Especialista+em+React+%26+JavaScript;Criando+Experiências+Digitais+Incríveis;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
