@@ -57,138 +57,122 @@ Link Currículo:  <a href="https://drive.google.com/file/d/17Vp7twmUfLV4yrc1Ulgl
 
 <img src="https://raw.githubusercontent.com/tiagocarvalhoUx/tiagocarvalhoUx/output/snake.svg" alt="Snake animation" />
 
+# 👨‍💻 Desenvolvedor Front-end
 
+Olá! Sou um desenvolvedor front-end apaixonado por criar experiências digitais excepcionais e interfaces modernas. Especializado em transformar ideias em aplicações web responsivas e performáticas.
 
+## 🚀 Sobre Mim
 
-## 🚀 Desenvolvedor Front-end
-
-Sou um desenvolvedor front-end apaixonado por criar experiências digitais incríveis e interfaces de usuário modernas. Com foco em performance, acessibilidade e código limpo, transformo ideias em aplicações web funcionais e visualmente atraentes.
-
----
+Desenvolvedor front-end com experiência em tecnologias modernas, focado em entregar soluções elegantes e funcionais. Tenho paixão por código limpo, design responsivo e experiência do usuário otimizada.
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### **Frontend Core**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Frontend Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Frameworks & Libraries**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### JavaScript & TypeScript
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Styling & Design**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **Build Tools & Development**
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+### Build Tools
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+## 💼 Principais Competências
 
-## 💼 O que eu faço
+### 🎨 **Interface & Design**
+- Desenvolvimento de interfaces responsivas e acessíveis
+- Implementação de designs pixel-perfect
+- Otimização para diferentes dispositivos e navegadores
+- Experiência em Design Systems
 
-- 🎨 **Desenvolvimento de Interfaces Modernas** - Criação de UIs responsivas e interativas
-- ⚡ **Otimização de Performance** - Aplicações rápidas e eficientes
-- 🔧 **Desenvolvimento Full-Stack** - Do frontend ao backend com Node.js
-- 📱 **Design Responsivo** - Experiências perfeitas em todos os dispositivos
-- 🚀 **Single Page Applications (SPAs)** - Aplicações dinâmicas com Vue.js e Next.js
-- 🎯 **TypeScript Development** - Código mais seguro e maintível
+### ⚡ **Performance & Otimização**
+- Otimização de bundle com Vite
+- Code splitting e lazy loading
+- SEO técnico e meta tags otimizadas
+- Web Vitals e Core Web Vitals
 
----
+### 🔧 **Desenvolvimento Moderno**
+- TypeScript para código mais robusto e maintível
+- Componentes reutilizáveis e modulares
+- State management eficiente
+- API integration (REST e GraphQL)
 
-## 🌟 Especialidades
+### 🌐 **Full Stack Capabilities**
+- Desenvolvimento de APIs com Node.js
+- Integração frontend-backend seamless
+- Server-side rendering com Next.js
+- JAMstack architecture
 
-### **Frontend Moderno**
-- Desenvolvimento com **Next.js** para aplicações React otimizadas
-- Criação de componentes reutilizáveis com **Vue.js**
-- Estilização eficiente com **Tailwind CSS**
-- **TypeScript** para desenvolvimento type-safe
+## 🏆 Diferenciais
 
-### **Performance & SEO**
-- Otimização de bundle size
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- Web Vitals optimization
+- **Clean Code**: Código limpo, bem documentado e fácil de manter
+- **Mobile First**: Abordagem mobile-first para desenvolvimento responsivo
+- **Performance**: Foco em performance e otimização de carregamento
+- **Acessibilidade**: Desenvolvimento com foco em inclusão e acessibilidade
+- **Metodologias Ágeis**: Experiência com Scrum e Kanban
 
-### **Ferramentas de Desenvolvimento**
-- **Vite** para desenvolvimento rápido
-- **Node.js** para ferramentas e APIs
-- Configuração de ambientes de desenvolvimento eficientes
+## 📊 Estatísticas GitHub
 
----
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx &show_icons=true&theme=radical)](https://github.com/tiagocarvalhoUx)
 
-## 📊 GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx &layout=compact&theme=radical)](https://github.com/tiagocarvalhoUx)
 
+</div>
 
+## 🌟 Projetos em Destaque
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+### 📱 **E-commerce Moderno**
+- **Stack**: Next.js, TypeScript, Tailwind CSS
+- **Features**: SSR, carrinho de compras, integração com gateway de pagamento
+- **[Ver Projeto](https://github.com/tiagocarvalhoUx /projeto-ecommerce)**
 
----
+### 🎵 **Dashboard Analytics**
+- **Stack**: Vue.js, TypeScript, Node.js
+- **Features**: Gráficos interativos, real-time data, design responsivo
+- **[Ver Projeto](https://github.com/SEU_USERNAME/dashboard-analytics)**
 
-## 🎯 Projetos em Destaque
-
-### 🌐 [Nome do Projeto 1]
-**Tecnologias:** Next.js, TypeScript, Tailwind CSS
-- Descrição breve do projeto e suas funcionalidades
-- [Demo](link-demo) | [Código](link-github)
-
-### 📱 [Nome do Projeto 2]
-**Tecnologias:** Vue.js, Vite, CSS3
-- Descrição breve do projeto e suas funcionalidades
-- [Demo](link-demo) | [Código](link-github)
-
-### ⚡ [Nome do Projeto 3]
-**Tecnologias:** Node.js, JavaScript, HTML5
-- Descrição breve do projeto e suas funcionalidades
-- [Demo](link-demo) | [Código](link-github)
-
----
+### 🚀 **Landing Page Interativa**
+- **Stack**: HTML5, CSS3, JavaScript, Vite
+- **Features**: Animações CSS, performance otimizada, SEO friendly
+- **[Ver Projeto](https://github.com/tiagocarvalhoUx /landing-page)**
 
 ## 📈 Experiência
 
-```javascript
-const desenvolvedor = {
-  nome: "Seu Nome",
-  cargo: "Frontend Developer",
-  tecnologias: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-    frameworks: ["Next.js", "Vue.js", "Node.js"],
-    styling: ["Tailwind CSS", "CSS3"],
-    tools: ["Vite", "Git", "VS Code"]
-  },
-  foco: ["Performance", "UX/UI", "Código Limpo", "Responsividade"],
-  aprendendo: ["React Native", "GraphQL", "Web3"]
-};
+```typescript
+const experience = {
+  languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+  frameworks: ['Next.js', 'Vue.js', 'Node.js'],
+  styling: ['Tailwind CSS', 'CSS3', 'Responsive Design'],
+  tools: ['Vite', 'Git', 'npm/yarn', 'VS Code'],
+  methodologies: ['Agile', 'Scrum', 'Clean Code', 'TDD']
+}
 ```
 
----
+## 📫 Vamos Conversar?
 
-## 🤝 Vamos Conectar?
+Estou sempre aberto a novos projetos e oportunidades interessantes!
 
-Estou sempre aberto para novas oportunidades, colaborações interessantes e conversas sobre tecnologia!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](seu-portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago_carvalho07@yahoo.com.br )
 
 ---
 
-## 📚 Sempre Aprendendo
+<div align="center">
+  <i>💡 "Código é poesia que funciona" - Sempre buscando a combinação perfeita entre funcionalidade e elegância.</i>
+</div> 
 
-A tecnologia evolui constantemente, e eu evoluo junto! Atualmente explorando:
 
-- 🎯 **Micro-frontends** com Module Federation
-- 🎨 **Design Systems** avançados
-- ⚡ **Edge Computing** com Vercel/Netlify
-- 🌐 **Web3** e desenvolvimento descentralizado
 
----
-
-*"Código limpo não é escrito seguindo regras. É escrito por desenvolvedores limpos que usam regras difíceis de quebrar."* - Robert C. Martin
-
-⭐ **Se você gostou dos meus projetos, deixe uma star!** ⭐
 
 
 <h2 align="center">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.</h2>
