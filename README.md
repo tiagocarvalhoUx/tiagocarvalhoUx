@@ -208,8 +208,9 @@ Acredito que a programação é uma ferramenta poderosa para criar soluções qu
 ## 📊 Estatísticas de Visitantes
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tiagocarvalhoUx/count.svg" alt="Visitor Count" />
+   <img src="https://komarev.com/ghpvc/?username=tiagocarvalhoUx&color=brightgreen&style=for-the-badge&label=VISUALIZAÇÕES" alt="Visitor Count" />
 </div>
+
 
 ---
 
