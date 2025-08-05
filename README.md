@@ -135,7 +135,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ### 🎯 Explore Meu Trabalho
 <div align="center">
-  <a href="https://portifolio-2025-git-portifolio-tiago-tiagocarvalhoux-s.vercel.app/work" target="_blank">
+  <a href="https://portifolio-tiago-2025.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀-Ver_Portfólio-8000e0?style=for-the-badge&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://drive.google.com/file/d/1U5E0y74D9_ikat9qhgZEgv_b2YWuFXLN/view?usp=sharing" target="_blank">
