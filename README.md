@@ -53,7 +53,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie&theme=synthwave&hide_border=true" alt="Languages Pie Chart" width="38%"  />
 
 
-  <br/><br/>
+  <br/>
 
 
  
