@@ -39,13 +39,13 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
- <br/><br/>
+ <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&theme=synthwave&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
-  <br/><br/>
-  <br/><br/>
+  <br/>
+  <br/>
  <div class="example-title"></div>
                     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&theme=synthwave&hide_border=true" alt="Top Languages" width="50%"  />
                     
