@@ -64,19 +64,23 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 ---
 
 ## 💻 Stack Tecnológica & Expertises
-
 ### 🌐 Frontend Core
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs,vue,tailwind" />
 </div>
 
 **Linguagens & Frameworks:**
-- **HTML5 & CSS3:** Semantic markup e layouts responsivos avançados
+
+- **React:** Hooks, Context API, componentes funcionais otimizados
+
 - **JavaScript (ES6+):** Programação funcional e orientada a objetos
 - **TypeScript:** Tipagem estática para código mais seguro e escalável
-- **React:** Hooks, Context API, componentes funcionais otimizados
+- **HTML5 & CSS3:** Semantic markup e layouts responsivos avançado
 - **Next.js:** SSR, SSG, App Router e otimizações automáticas
+- **Vue.js:** Composition API, reatividade, single-file components e ecossistema Nuxt
+- **Tailwind CSS:** Framework utility-first para estilização rápida e responsiva
 
+  
 ### 🎨 Styling & Design Systems
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sass,tailwind,figma,photoshop" />
