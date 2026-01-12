@@ -39,10 +39,10 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
-<a href="https://tiago.dev">
+<a href="https://tiagocarvalhoUx.dev">
     <img src="https://img.shields.io/badge/Website-tiago.dev-red?style=flat-square">
 </a>  
-<a href="https://resume.tiago.dev/">
+<a href="https://resume.tiagocarvalhoUx.dev/">
     <img src="https://img.shields.io/badge/Resume-purple?style=flat-square">
 </a>  
 <a href="https://www.linkedin.com/in/tiago-carvalho-ux/">
