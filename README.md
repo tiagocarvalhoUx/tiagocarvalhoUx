@@ -51,7 +51,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
  </br>
  <a href="https://github.com/AstraBert">
     <img src="https://vercel.com/tiagocarvalhoux-s/api?username=tiagocarvalhoux&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagocarvalhoux-s&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagocarvalhoux&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </br>
  </br>
