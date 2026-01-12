@@ -50,7 +50,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
  </br>
  </br>
  <a href="https://github.com/tiagocarvalhoUx">
-    <img src="https://vercel.com/tiagocarvalhoux-s/api?username=tiagocarvalhoux&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://vercel.com/tiagocarvalhoux-s/api?username=tiagocarvalhoux-s&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </br>
