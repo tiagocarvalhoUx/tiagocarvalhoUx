@@ -39,16 +39,9 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&theme=synthwave&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180em" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=synthwave-duo&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=tiago+carvalho+Ux;SWE+and+AI+dev+%7C+Pythonist+%7C+Go+Learner;Agentic+Systems+%7C+Open+Source+%7C+Data+Driven" alt="Typing SVG" />
+</a>
 
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagocarvalhoUx&theme=synthwave&hide_border=true" alt="Profile Summary" width="80%" />
