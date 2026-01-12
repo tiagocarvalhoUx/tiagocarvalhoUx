@@ -46,9 +46,11 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 </a>
 <a href="mailto:tiago_carvalho07@yahoo.com.br">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://pypi.org/user/tiagocarvalhoUx/">
-    <img src="https://img.shields.io/badge/PyPi-tiagocarvalhoUx-blue?style=flat-square&logo=pypi&logoColor=white">
+
+ 
+ <a href="https://github.com/AstraBert">
+    <img src="https://vercel.com/tiagocarvalhoux-s/api?username=tiagocarvalhoux&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiagocarvalhoux&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
  
