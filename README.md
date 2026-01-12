@@ -39,8 +39,20 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=tiago+carvalho+Ux;SWE+and+AI+dev+%7C+Pythonist+%7C+Go+Learner;Agentic+Systems+%7C+Open+Source+%7C+Data+Driven" alt="Typing SVG" />
+<a href="https://tiago.dev">
+    <img src="https://img.shields.io/badge/Website-tiago.dev-red?style=flat-square">
+</a>  
+<a href="https://resume.tiago.dev/">
+    <img src="https://img.shields.io/badge/Resume-purple?style=flat-square">
+</a>  
+<a href="https://www.linkedin.com/in/tiago-carvalho-ux/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:tiago_carvalho07@yahoo.com.br">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://pypi.org/user/tiagocarvalhoUx/">
+    <img src="https://img.shields.io/badge/PyPi-tiagocarvalhoUx-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
  
