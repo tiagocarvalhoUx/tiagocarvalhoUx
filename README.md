@@ -121,8 +121,15 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 🏆 Conquistas & Métricas
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiagocarvalhoUx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)        
+
+
+
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=tiagocarvalhoUx&theme=dracula&row=2&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=tiagocarvalhoUx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tiagocarvalhoUx&theme=dracula" alt="GitHub Trophies" />
 </div>
 
 ### 📈 Destaques de Performance
