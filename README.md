@@ -134,8 +134,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagocarvalhoUx&theme=dracula" />
  </br>
  </br>
- </br>
- </br>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagocarvalhoUx&theme=dracula" />
 </div>
 
