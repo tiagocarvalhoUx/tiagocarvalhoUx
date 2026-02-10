@@ -121,15 +121,37 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 🏆 Conquistas & Métricas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiagocarvalhoUx&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)        
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-
-
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=tiagocarvalhoUx&theme=dracula&row=2&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiagocarvalhoUx&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=dracula&hide_border=true" alt="tiagocarvalhoUx" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagocarvalhoUx&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagocarvalhoUx&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagocarvalhoUx&theme=dracula" />
+</div>
+
+
+<div align="center">
+  
+  ![Commits](https://img.shields.io/badge/Commits-1000+-blue?style=for-the-badge&logo=github)
+  ![Repos](https://img.shields.io/badge/Repos-50+-green?style=for-the-badge&logo=github)
+  ![Stars](https://img.shields.io/badge/Stars-100+-yellow?style=for-the-badge&logo=github)
+  
+</div>
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=dracula&hide_border=true"/>
 </div>
 
 ### 📈 Destaques de Performance
