@@ -166,9 +166,9 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
   <a href="https://portifolio-tiago-2025.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀-Ver_Portfólio-8000e0?style=for-the-badge&logoColor=white" alt="Portfólio"/>
   </a>
-  [<a href="https://drive.google.com/file/d/1U5E0y74D9_ikat9qhgZEgv_b2YWuFXLN/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1U5E0y74D9_ikat9qhgZEgv_b2YWuFXLN/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄-Download_CV-2196F3?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV"/>
-  </a>](https://drive.google.com/file/d/1TBD9c-V9jc50JnOm50Ul2pUXzzQC8ZA1/view?usp=drive_link)
+  </a>(https://drive.google.com/file/d/1TBD9c-V9jc50JnOm50Ul2pUXzzQC8ZA1/view?usp=drive_link)
 </div>
 
 ### 💼 O Que Você Encontrará
