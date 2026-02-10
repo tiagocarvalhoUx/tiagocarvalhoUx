@@ -121,12 +121,14 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 🏆 Conquistas & Métricas
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=dracula&hide_border=true" alt="tiagocarvalhoUx" />
+</div>
 
-
-
+</br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagocarvalhoUx&theme=dracula" /> 
+  
  </br>
  </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagocarvalhoUx&theme=dracula" />
