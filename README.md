@@ -123,6 +123,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -132,8 +133,12 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagocarvalhoUx&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagocarvalhoUx&theme=dracula" /> 
+ </br>
+ </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagocarvalhoUx&theme=dracula" />
+ </br>
+ </br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiagocarvalhoUx&theme=dracula" />
 </div>
 
