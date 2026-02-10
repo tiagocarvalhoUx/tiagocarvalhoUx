@@ -38,33 +38,38 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&hide_rank=true&hide_border=true"/>
-</div>
-
-<div align="center">
+  <!-- Stats + Streak -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=donut-vertical&theme=dracula&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=donut&theme=dracula&hide_border=true" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie&theme=dracula&hide_border=true" />
-</div>
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=dracula&hide_border=true"/>
   
+  <br/><br/>
+  
+  <!-- Gráfico de Pizza para linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie&theme=dracula&hide_border=true&langs_count=8" />
+  
+  <br/><br/>
+  
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagocarvalhoUx&theme=dracula&hide_border=true" />
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/tiagocarvalhoUx/nome-do-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagocarvalhoUx&repo=nome-do-repo&theme=dracula&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagocarvalhoUx&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&show=reviews,discussions_started,prs_merged&hide_border=true"/>
+</div>
+
+  ---------------------------------------------
   
 <a href="https://www.linkedin.com/in/tiago-carvalho-ux/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
