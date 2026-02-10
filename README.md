@@ -126,11 +126,9 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+</br>
+ </br>
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=dracula&hide_border=true" alt="tiagocarvalhoUx" />
-</div>
 
 
 <div align="center">
@@ -149,10 +147,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 </div>
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=dracula&hide_border=true"/>
-</div>
+
 
 ### 📈 Destaques de Performance
 - 🚀 **+95 Lighthouse Score** em projetos produção
