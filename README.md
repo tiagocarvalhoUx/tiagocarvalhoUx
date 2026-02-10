@@ -167,7 +167,7 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
     <img src="https://img.shields.io/badge/🚀-Ver_Portfólio-8000e0?style=for-the-badge&logoColor=white" alt="Portfólio"/>
   </a>
   <a
-  href="https://drive.google.com/uc?export=download&id=1U5E0y74D9_ikat9qhgZEgv_b2YWuFXLN"
+  href="https://drive.google.com/file/d/1QaE0w0VkLcM6S5l6Ykz9llXYbrnm9aLX/view?usp=drive_link"
   target="_blank"
   rel="noopener noreferrer"
 >
@@ -176,6 +176,9 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
     alt="Download do Currículo"
   />
 </a>
+
+
+
 
 </div>
 
