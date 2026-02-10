@@ -39,6 +39,14 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie&theme=dracula&hide_border=true&langs_count=6&hide=html,css&bg_color=0d1117" />
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie&theme=dracula&hide_border=true&langs_count=8" />
+</div>
+
   
 <a href="https://www.linkedin.com/in/tiago-carvalho-ux/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
