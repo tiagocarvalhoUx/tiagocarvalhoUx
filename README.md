@@ -39,6 +39,18 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
+![As linguagens de tiagocarvalhoUx](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&theme=tokyonight ) 
+
+![Estatísticas de tiagocarvalhoUx](https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=tokyonight )
+
+![Streak de tiagocarvalhoUx](https://github-readme-streak-stats.herokuapp.com/?user=tiagocarvalhoUx&theme=tokyonight )
+
+![Linguagens Circular](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=donut&theme=tokyonight )
+
+
+
+-----------------------------
+
   
 <a href="https://www.linkedin.com/in/tiago-carvalho-ux/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
