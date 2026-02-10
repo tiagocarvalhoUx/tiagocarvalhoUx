@@ -39,6 +39,31 @@ Desenvolvedor Front-End especializado em criar experiências digitais excepciona
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&hide_rank=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagocarvalhoUx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=donut-vertical&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=donut&theme=dracula&hide_border=true" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocarvalhoUx&layout=pie&theme=dracula&hide_border=true" />
+</div>
+
   
   
 <a href="https://www.linkedin.com/in/tiago-carvalho-ux/">
